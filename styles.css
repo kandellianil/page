@@ -1,0 +1,43 @@
+body{
+margin: 0px;
+  text-align: center;
+
+}
+.top{
+  background-color: #E4F9F5;
+  padding-top: 20px;
+}
+.c1{
+  height: 100px;
+  width: 100px;
+  position:relative;
+  left: 200px;
+
+}
+.m1{
+  height: 300px;
+  width: 600px;
+}
+.c2{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  right: 600px;
+  bottom: 200px;
+}
+h1{
+  color:#66BFBF;
+}
+h2{
+  color: #11999E;
+}
+.a{
+  color:#66BFBF;
+  margin-bottom: 100px;
+}
+hr{
+  border-width: 3px;
+}
+.f{
+  color: red;
+}
